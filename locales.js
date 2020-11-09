@@ -739,3 +739,71 @@ const locales = {
         }
     }
 };
+
+"fr": {
+        "cCode": "fr",
+        "language": "Français",
+        "text": {
+            "channelNameLabel": "Chat",
+            "scrollCheck": "Activer l'animation à défilement automatique",
+            "fileSent": "a envoyé certains fichier(s)",
+            "attachmentTxt": "Piéce Jointe",
+            "privateMessages": "Message(s) privé",
+            "userId": "Identifiant de l'utilisateur"
+        },
+        "buttons": {
+            "clearLastMessages": "Supprimer le(s) dernier(s) message(s)",
+            "editToken": "Modifier le Token",
+            "refreshChat": "Rafraîchir le chat",
+            "changeLanguage": "Chaanger la langue",
+            "send": "Envoyé !",
+            "leave": "Quittez le serveur",
+            "invite": "Invitez"
+        },
+        "infos": {
+            "owner": "Propriétaire",
+            "members": "Membres",
+            "vChannels": "Salons (vocaux)",
+            "tChannels": "Salons (textuels)",
+            "roles": "Rôles",
+            "channels": "Salons",
+            "emojis": "Emojis"
+        },
+        "headings": {
+            "lastMessages": "Derniers messages",
+            "guildName": "Information(s)",
+            "autoScroll": "Défilement Automatique",
+        },
+        "errors": {
+            "error": "ERREUR",
+            "dm": "ERREUR : Message(s) privé",
+            "emptyMsg": "ERREUR : MESSAGE(S) VIDE",
+            "missingPermissions": "ERREUR : PERMISSIONS MANQUANTES"
+        },
+        "token": {
+            "prompt": "Merci d'entrer le jeton d'authentification de ton robot Discord",
+            "confirmation": "Êtes-vous sur(e) ?",
+            "invalid": "Le jeton d'authentification de ton robot Discord est invalide"
+        },
+        "messageType": {
+            "serverJoin": "a rejoint le serveur",
+            "pin": "viens d'épingler un message",
+            "channelNews": "a ajouté un salon d'annonces",
+            "boost": "a booster le serveur !"
+        },
+        "fileType": {
+            "unknown": "inconnu",
+            "img": "image",
+            "doc": "document",
+            "pdf": "pdf",
+            "video": "vidéo",
+            "audio": "audio"
+        },
+        "formatting": {
+            "bold": "Gras",
+            "emphasis": "Accent(s)",
+            "underline": "Souligner",
+            "strike": "Barré",
+            "clear": "Supprimé le format"
+        }
+    },
